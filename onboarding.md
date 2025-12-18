@@ -14,4 +14,8 @@ This is a list of activities that are recommended to be completed as part of joi
 * Create a new private channel in our Team to act as your _activity log_. See the separate [Activity Logs page](activity-logs.md) for details.
 * Read Baeumel, Tanja, Josef van Genabith, and Simon Ostermann. ["The lookahead limitation: Why multi-operand addition is hard for LLMs."](https://arxiv.org/pdf/2502.19981)
   - Focus on the experimental results. Don't worry about theoretical ideas.
+* Practice submitting a pull request to our public website:
+  - fork the repo at [https://github.com/dson-comp560-sp26/comp560-web](https://github.com/dson-comp560-sp26/comp560-web)
+  - Add your name and any optional links to the `participants.md` file.
+  - Submit a pull request (PR) for the change. Ask for help on Teams and/or from an AI assistant if you don't know how to do this.
 * ... under construction ... more to be added ...

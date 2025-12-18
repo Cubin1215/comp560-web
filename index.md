@@ -7,3 +7,4 @@
 * [Syllabus](syllabus.md)
 * [Possible projects](possible-projects.md)
 * [Literature](literature/literature.md)
+* [Participants](participants.md)
