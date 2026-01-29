@@ -17,5 +17,6 @@ _Students: Please add your name to this list and submit a PR. Optionally, add re
 * Mubashshir Alam Ifrad: [github](https://github.com/Ifrad), [linkedin](https://www.linkedin.com/in/mubashshir-alam-ifrad-9159aa2b2/)
 * Aziz Muminov [github](https://github.com/AzizbekMuminoff)
 * Radiath Kamal Patwary:[github](https://github.com/RadiathKamalPatwary),[linkedIn](https://www.linkedin.com/in/radiath-kamal-patwary-591ab4278/)
+* Youssif Goda:[github](https://github.com/YoussifGoda),[linkedIn](www.linkedin.com/in/youssif-goda)
 * Rayyan Madraswala: [github](https://github.com/R1Kexpress)
 * Nish Kolla (high school student): [github](https://github.com/nishcola)
